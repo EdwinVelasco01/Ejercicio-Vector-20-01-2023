@@ -1,0 +1,35 @@
+El valor es multiplo de 5  0 
+3 
+6 
+9 
+12 
+El valor es multiplo de 5  15 
+18 
+21 
+24 
+27 
+El valor es multiplo de 5  30 
+33 
+36 
+39 
+42 
+El valor es multiplo de 5  45 
+48 
+51 
+54 
+57 
+El valor es multiplo de 5  60 
+63 
+66 
+69 
+72 
+El valor es multiplo de 5  75 
+78 
+81 
+84 
+87 
+El valor es multiplo de 5  90 
+93 
+96 
+99 
+99 
